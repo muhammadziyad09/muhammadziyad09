@@ -2,7 +2,6 @@
 
 **Excel Data Analyst | Dashboards, Data Cleaning & Business Reports**
 
-> DRAFT ONLY — prepared locally for review. This file has not been published, pushed to GitHub, or added to any live profile.
 
 I help small businesses, online stores, and startups understand their numbers with clean data and professional Excel dashboards.
 
